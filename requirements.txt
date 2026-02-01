@@ -5,6 +5,7 @@ streamlit
 scikit-learn
 fastapi
 uvicorn[standard]
+uvicorn
 joblib
 pydantic
 requests
